@@ -1,25 +1,20 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Alix</strong> Keener
+description: <a href=""></a>San Francisco Bay Area, CA
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
+    <p></p>
+    <p></p>
+   <p></p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an academic technologist and librarian focusing on supporting researchers in the digital humanities and social sciences. I consult and collaborate on a variety of digital scholarship projects. Currently, I am the Digital Scholarship Coordinator based jointly in Stanford University's Center for Spatial and Textual Analysis and Stanford Libraries' Center for Interdisciplinary Digital Research. Before that, I was a Program Manager at the UC Santa Cruz Silicon Valley campus, and previously the Digital Scholarship Librarian at the University of Michigan Library, where I earned my MSI. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
