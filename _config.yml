@@ -10,7 +10,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
 url: https://kenyamano.github.io  # the base hostname & protocol for your site
-last_updated: November 1, 2022# leave blank if you don't want to display last updated
+last_updated: November 1, 2022 # leave blank if you don't want to display last updated
 
 
 
@@ -23,8 +23,7 @@ twitter_username: KenyaAmano # your Twitter handle
 linkedin_username: kenya-amano-516a14100 # your LinkedIn user name
 scholar_userid: nYeP-i4AAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-5051-4144 # your ORCID ID
-research_gate_profile: Kenya-Amano  # your ResearchGate ID
-contact_note: 
+#contact_note: 
 
 #google_analytics: UA-126619141-1 # out your google-analytics code
 

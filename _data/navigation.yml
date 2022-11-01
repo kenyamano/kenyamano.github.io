@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "CV"
+    url: http://kenyamano.github.io/assets/pdf/CV-KenyaAmano.pdf
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Data"
+    url: /data/
