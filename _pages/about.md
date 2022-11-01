@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Kenya</strong> Amano
-description: <b>Ph.D. Candidate</b>|Political Science|University of Washington, Seattle WA
+description: Ph.D. Candidate | Political Science | University of Washington, Seattle WA
 
 profile:
   align: right
