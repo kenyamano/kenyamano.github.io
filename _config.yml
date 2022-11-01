@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Kenya Amanmo
-email: kenya.amano@gmail.com
+name: Kenya Amano
+email: kamano@uw.edu
 description: > # this means to ignore newlines until "url:"
   Digital Scholarship and libraries.
 footer_text: >
@@ -23,6 +23,7 @@ twitter_username: KenyaAmano # your Twitter handle
 linkedin_username: kenya-amano-516a14100 # your LinkedIn user name
 scholar_userid: nYeP-i4AAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-5051-4144 # your ORCID ID
+research_gate_profile: Kenya-Amano # ResearchGate ID
 #contact_note: 
 
 #google_analytics: UA-126619141-1 # out your google-analytics code
