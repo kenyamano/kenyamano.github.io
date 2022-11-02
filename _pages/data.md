@@ -26,12 +26,10 @@ published in Journal of Computational Physics, 2020
 ### Theses
 * Time Series, _PhD Thesis_
 	
-	<i class="fa fa-sticky-note" aria-hidden="true"></i> 
-	  [<a href="javascript:showhide('phd')">Abs</a>]
-	  [<a href="/assets/papers/windowed_matching_ec19.pdf" target="_blank">PDF</a>] &nbsp; &nbsp;
-	  
-	  [<a href="https://dl.acm.org/doi/10.1145/3328526.3329573">Proceedings</a>] &nbsp; &nbsp;
-	  
+	 
+	  [<i class="fa fa-sticky-note" aria-hidden="true"></i><a href="javascript:showhide('phd')">Abs</a>]
+	  [<a href="/assets/papers/windowed_matching_ec19.pdf" target="_blank">PDF</a>]
+	  [<a href="https://dl.acm.org/doi/10.1145/3328526.3329573">Proceedings</a>]
 	  [<a href="http://arxiv.org/abs/1808.03526">arXiv</a>] &nbsp; &nbsp;
   
 	<div id="phd" style="display:none;">
