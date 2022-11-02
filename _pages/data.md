@@ -2,7 +2,7 @@
 layout: page
 title: data
 permalink: /data/
-description: datadata
+description: Publications and working papers.
 ---
 
 <script type="text/javascript">
@@ -12,9 +12,24 @@ description: datadata
  }
 </script>
 
-### Published
+#### Job Market Paper
+#### Peer-Reviewed Articles 
+[4] *Field Research When There’s Limited Access to the Field: Lessons from Japan* 
+with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree
+_PS: Political Science & Politics_, Forthcoming
+    [<a href="javascript:showhide('pr4')">Abs</a>]
+    [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">PDF</a>]
+    [<a href="https://doi.org/10.1017/S1049096522000932">DOI</a>]
+    [<a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1049096522000932/resource/name/S1049096522000932sup001.docx">Supp</a>]
+    <div id="phd" style="display:none;">
+    <p><div style="font-size:0.85em; text-align: justify;">  How can scholars conduct field research when there is limited access to the field? This article first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on conducting field research in Japan because of our substantive expertise, but we believe that the problems and solutions outlined in this article are applicable to a broad range of countries. Our hope is that this article contributes to the developing literature on conducting research during times of emergency and to the larger literature on best practices for field research. </div> </p>
+    </div>
 
-#### Journals 
+
+
+#### Book Chapters
+#### Selected Work in Progress
+
 
 Project: Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics  
 published in Artificial Intelligence in Medicine, 2021
@@ -22,20 +37,3 @@ published in Artificial Intelligence in Medicine, 2021
 Project: Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis  
 published in Journal of Computational Physics, 2020
 
-
-### Theses
-* Time Series, _PhD Thesis_
-	
-
-### Theses
-* Time Series, _PhD Thesis_
-	
-    [<i class="fa fa-sticky-note" aria-hidden="true"></i> 
-    <a href="javascript:showhide('phd')">_Abstract_</a>]
-    [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-    <a href="https://dl.acm.org/doi/10.1145/3328526.3329573">Proceedings</a>]
-    [<a href="https://dl.acm.org/doi/10.1145/3328526.3329573">Proceedings</a>]
-    [<a href="https://dl.acm.org/doi/10.1145/3328526.3329573">Proceedings</a>]
-    <div id="phd" style="display:none;">
-    <p><div style="font-size:0.85em; text-align: justify;">  This thesis investigates Bayesian inference over time series models with the emphasis put on applications in economics and finance. We adopt simulation-based techniques which are necessary in any nontrival problem in this setting. The main motivation behind the presented research is to increase the effciency and accuracy of these computationally intensive methods in several different contexts. One of the main topics addressed is efficient and precise risk estimation, or rare event analysis. Another problem studied in this thesis is the efficiency of various sampling algorithms, in particular importance sampling (IS) and Markov chain Monte Carlo (MCMC) algorithms. Finally, we address the issue of  forecasting, from a single model as well as from a combination of models. </div> </p>
-	</div>
