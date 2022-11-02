@@ -14,7 +14,7 @@ description: Publications and working papers.
 
 #### Job Market Paper
 #### Peer-Reviewed Articles 
-#[4] *Field Research When There’s Limited Access to the Field: Lessons from Japan*
+[4] *Field Research When There’s Limited Access to the Field: Lessons from Japan*
 
 with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree
 
@@ -30,9 +30,11 @@ _PS: Political Science & Politics_, Forthcoming
 
 
 
-* *The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.* \
-with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson\
-_Perspectives on Politics_, 20(2):595--617, 2022\
+[3] *The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.*
+
+with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson
+
+_Perspectives on Politics_, 20(2):595--617, 2022
 
 [<a href="javascript:showhide('pr3')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7D30B5AF90226027EB281329FBDA83C8/S1537592721002036a.pdf/the-pandemic-policy-u-turn-partisanship-public-health-and-race-in-decisions-to-ease-covid-19-social-distancing-policies-in-the-united-states.pdf">PDF</a>]
@@ -44,9 +46,9 @@ _Perspectives on Politics_, 20(2):595--617, 2022\
 
 
 
-### [2] *Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings*\ 
-with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson\
-_State Politics & Policy Quarterly_, 22(1):24--49, 2022\
+[2] *Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings* 
+with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson
+_State Politics & Policy Quarterly_, 22(1):24--49, 2022
 
 
 [<a href="javascript:showhide('pr2')">Abs</a>]
@@ -55,8 +57,9 @@ _State Politics & Policy Quarterly_, 22(1):24--49, 2022\
 [<a href="https://doi.org/10.15139/S3/OPMEHK">Data</a>]
 <div id="pr2" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  Public mask use has emerged as a key tool in response to COVID-19. We develop a classification of statewide mask mandates that reveals variation in their scope and timing. Some US states quickly mandated wearing of face coverings in most public spaces, whereas others issued narrow mandates or no mandate at all. We consider how differences in COVID-19 epidemiological indicators and partisan politics affect when states adopted broad mask mandates, starting with the earliest mandates in April 2020 and continuing through the end of 2020. The most important predictor is the presence of a Republican governor, delaying statewide indoor mask mandates an estimated 98.0 days on average. COVID-19 indicators such as confirmed case or death rates are much less important predictors. This finding highlights a key challenge to public efforts to increase mask wearing, one of the most effective tools for preventing the spread of SARS-CoV-2 while restoring economic activity. </div> </p></div>
-\
-\
+
+
+
 
 
 
