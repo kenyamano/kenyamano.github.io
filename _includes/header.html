@@ -33,14 +33,10 @@
          <a class="page-link" href="{{ '/assets/pdf/CV-KenyaAmano.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> 
 
         <!-- Blog -->
-        <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
+        <a class="page-link" href="{{ '/resaerch/' | prepend: site.baseurl | prepend: site.url }}">research</a> 
+        <a class="page-link" href="{{ '/teaching/' | prepend: site.baseurl | prepend: site.url }}">teaching</a> 
+        <a class="page-link" href="{{ '/data/' | prepend: site.baseurl | prepend: site.url }}">data</a> 
 
-      <!-- Pages -->
-        {% for page in site.pages %}
-          {% if page.title and page.url != "/" %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
       </div>
     </nav>
 
