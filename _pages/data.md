@@ -14,7 +14,7 @@ description: Publications and working papers.
 
 #### Job Market Paper
 #### Peer-Reviewed Articles 
-[4] *Field Research When There’s Limited Access to the Field: Lessons from Japan*
+[4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**
 
 with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree
 
@@ -30,7 +30,7 @@ _PS: Political Science & Politics_, Forthcoming
 
 
 
-[3] *The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.*
+[3] **The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.**
 
 with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson
 
@@ -46,7 +46,7 @@ _Perspectives on Politics_, 20(2):595--617, 2022
 
 
 
-[2] *Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings* 
+[2] **Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings**
 with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson
 _State Politics & Policy Quarterly_, 22(1):24--49, 2022
 
@@ -57,6 +57,26 @@ _State Politics & Policy Quarterly_, 22(1):24--49, 2022
 [<a href="https://doi.org/10.15139/S3/OPMEHK">Data</a>]
 <div id="pr2" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  Public mask use has emerged as a key tool in response to COVID-19. We develop a classification of statewide mask mandates that reveals variation in their scope and timing. Some US states quickly mandated wearing of face coverings in most public spaces, whereas others issued narrow mandates or no mandate at all. We consider how differences in COVID-19 epidemiological indicators and partisan politics affect when states adopted broad mask mandates, starting with the earliest mandates in April 2020 and continuing through the end of 2020. The most important predictor is the presence of a Republican governor, delaying statewide indoor mask mandates an estimated 98.0 days on average. COVID-19 indicators such as confirmed case or death rates are much less important predictors. This finding highlights a key challenge to public efforts to increase mask wearing, one of the most effective tools for preventing the spread of SARS-CoV-2 while restoring economic activity. </div> </p></div>
+
+[1] **Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19**
+
+with with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, John Wilkerson
+
+_Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021
+
+
+[<a href="javascript:showhide('pr1')">Abs</a>]
+[<a href="/assets/pdf/AABFW2020.pdf">PDF</a>]
+[<a href="https://doi.org/10.1215/03616878-8802162">DOI</a>]
+<div id="pr1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  **Context:** Social distancing is an essential but economically painful measure to flatten the curve of emergent infectious diseases. As the novel coronavirus that causes COVID-19 spread throughout the United States in early 2020, the federal government left to the states the difficult and consequential decisions about when to cancel events, close schools and businesses, and issue stay-at-home orders.
+
+**Methods:** The authors present an original, detailed dataset of state-level social distancing policy responses to the epidemic; they then apply event history analysis to study the timing of implementation of five social distancing policies across all 50 states.
+
+**Results:** The most important predictor of when states adopted social distancing policies is political: all else equal, states led by Republican governors were slower to implement such policies during a critical window of early COVID-19 response.
+
+**Conclusions:** Continuing actions driven by partisanship rather than by public health expertise and scientific recommendations may exact greater tolls on health and broader society. </div> </p></div>
+
 
 
 
