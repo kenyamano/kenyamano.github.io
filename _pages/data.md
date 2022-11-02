@@ -41,13 +41,15 @@ _Perspectives on Politics_, 20(2):595--617, 2022
 [<a href="https://doi.org/10.1017/S1537592721002036">DOI</a>]
 [<a href="https://doi.org/10.7910/DVN/9PFC7P">Data</a>]
 [<a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1537592721002036/resource/name/S1537592721002036sup001.pdf">Supp</a>]
-<div id="phd" style="display:none;">
+<div id="pr3" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  How can scholars conduct field research when there is limited access to the field? This article first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on conducting field research in Japan because of our substantive expertise, but we believe that the problems and solutions outlined in this article are applicable to a broad range of countries. Our hope is that this article contributes to the developing literature on conducting research during times of emergency and to the larger literature on best practices for field research. </div> </p></div>
 
 
 
 [2] **Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings**
+
 with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson
+
 _State Politics & Policy Quarterly_, 22(1):24--49, 2022
 
 
@@ -57,6 +59,8 @@ _State Politics & Policy Quarterly_, 22(1):24--49, 2022
 [<a href="https://doi.org/10.15139/S3/OPMEHK">Data</a>]
 <div id="pr2" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  Public mask use has emerged as a key tool in response to COVID-19. We develop a classification of statewide mask mandates that reveals variation in their scope and timing. Some US states quickly mandated wearing of face coverings in most public spaces, whereas others issued narrow mandates or no mandate at all. We consider how differences in COVID-19 epidemiological indicators and partisan politics affect when states adopted broad mask mandates, starting with the earliest mandates in April 2020 and continuing through the end of 2020. The most important predictor is the presence of a Republican governor, delaying statewide indoor mask mandates an estimated 98.0 days on average. COVID-19 indicators such as confirmed case or death rates are much less important predictors. This finding highlights a key challenge to public efforts to increase mask wearing, one of the most effective tools for preventing the spread of SARS-CoV-2 while restoring economic activity. </div> </p></div>
+
+
 
 [1] **Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19**
 
@@ -69,13 +73,13 @@ _Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021
 [<a href="/assets/pdf/AABFW2020.pdf">PDF</a>]
 [<a href="https://doi.org/10.1215/03616878-8802162">DOI</a>]
 <div id="pr1" style="display:none;">
-<p><div style="font-size:0.85em; text-align: justify;">  **Context:** Social distancing is an essential but economically painful measure to flatten the curve of emergent infectious diseases. As the novel coronavirus that causes COVID-19 spread throughout the United States in early 2020, the federal government left to the states the difficult and consequential decisions about when to cancel events, close schools and businesses, and issue stay-at-home orders.
+<p><div style="font-size:0.85em; text-align: justify;">  <bold>Context:</bold> Social distancing is an essential but economically painful measure to flatten the curve of emergent infectious diseases. As the novel coronavirus that causes COVID-19 spread throughout the United States in early 2020, the federal government left to the states the difficult and consequential decisions about when to cancel events, close schools and businesses, and issue stay-at-home orders.<br>
 
-**Methods:** The authors present an original, detailed dataset of state-level social distancing policy responses to the epidemic; they then apply event history analysis to study the timing of implementation of five social distancing policies across all 50 states.
+</bold>Methods:</bold> The authors present an original, detailed dataset of state-level social distancing policy responses to the epidemic; they then apply event history analysis to study the timing of implementation of five social distancing policies across all 50 states.<br>
 
-**Results:** The most important predictor of when states adopted social distancing policies is political: all else equal, states led by Republican governors were slower to implement such policies during a critical window of early COVID-19 response.
+<bold>Results:</bold> The most important predictor of when states adopted social distancing policies is political: all else equal, states led by Republican governors were slower to implement such policies during a critical window of early COVID-19 response.<br>
 
-**Conclusions:** Continuing actions driven by partisanship rather than by public health expertise and scientific recommendations may exact greater tolls on health and broader society. </div> </p></div>
+<bold>Conclusions:</bold> Continuing actions driven by partisanship rather than by public health expertise and scientific recommendations may exact greater tolls on health and broader society. </div> </p></div>
 
 
 
@@ -85,6 +89,25 @@ _Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021
 
 
 #### Book Chapters
+
+[1] **Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election** 
+
+with Saori Katada
+
+In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) _Japan Decides 2021: The Japanese General Election_. 
+Palgrave Macmillan, Forthcoming 
+
+[<a href="javascript:showhide('bc1')">Abs</a>]
+[<a href="/assets/pdf/Amano and Katada_2022_Economic Policy Trilemma.pdf">PDF</a>]
+[<a href="https://github.com/kenyamano/JapanDecides2021">Data</a>]
+<div id="bc1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDPK ¯omeit¯o coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
+
+
+
+
+
+
 #### Selected Work in Progress
 
 
