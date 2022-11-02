@@ -4,21 +4,13 @@ title: data
 permalink: /data/
 description: datadata
 ---
-{% include _links_library.md %}
-
-<script type="text/javascript">
- function showhide(id) {
-    var e = document.getElementById(id);
-    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
- }
-</script>
 
 ### Published
 
 #### Journals 
 
 Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics  
-_joint with [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, David Dalton, Colin Berry, [Xiaoyu Luo][XiaoyuLuo], [Dirk Husmeier][DirkHusmeier] and [Hao Gao][HaoGao]_  
+_ddd_  
 published in Artificial Intelligence in Medicine, 2021
 
 	<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('phd')">_Abstract_</a>
