@@ -30,12 +30,29 @@ description: Information about my research activities
 
 - Incerti, Trevor and Phillip Lipscy. ''[The energy politics of Japan](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21).'' In [*The Oxford Handbook of Energy Politics*](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360) (2020). (*Peer reviewed*). 
 
-summary::after {
-  margin-left: 1ch;
-  display: inline-block;
-  transition: 0.2s;
-  content: '\203A'; /* chevron */
+details {
+  font: 16px "Open Sans", Calibri, sans-serif;
+  width: 620px;
 }
+
+details > summary {
+  padding: 2px 6px;
+  width: 15em;
+  background-color: #ddd;
+  border: none;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
+  list-style: none;
+}
+
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px black;
+}
+Copy to Clipboard
 
   <details><summary>Abstract</summary><p> Japanese energy policy has attracted renewed attention since the 2011 Fukushima nuclear disaster. However, Japan’s energy challenges are nothing new; as a country poor in natural resources, it has long struggled to meet its energy needs. This chapter provides an overview of Japanese energy politics, focusing on three broad topics: Japan’s modernization and energy security challenges, the politics of the utilities sector and nuclear energy, and the politics of energy conservation and climate change. In addition, the chapter discusses factors specific to Japan, such as state-business relations in the utilities sector and institutional changes since the 1990s. Japan offers both compelling puzzles—several transformative shifts in energy conservation policy, limited emphasis on renewables despite persistent energy security concerns, and reinvigoration of nuclear energy despite the Fukushima disaster—as well as important empirical opportunities for theory testing. The chapter concludes by calling for additional research that integrates insights from Japan into broader theoretical and cross-national scholarship, examines Japanese energy policy within an international context, and uses rigorous causal identification strategies to evaluate Japanese energy policy. Finally, it identifies the politics of decarbonization in Japan as a critical area for future research. </p></details>
 
