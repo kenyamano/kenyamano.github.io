@@ -12,8 +12,18 @@ description: Publications and working papers.
  }
 </script>
 
-#### Job Market Paper
-#### Peer-Reviewed Articles 
+### Job Market Paper
+**Democracy and Macroprudential Banking Regulation**
+
+
+[<a href="javascript:showhide('jmp')">Abs</a>]
+[<a href="/assets/pdf/20221025Draft">PDF</a>]
+<div id="jmp" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  Do democracies implement more banking regulations than authoritarian states? Existing studies examine the relationship between democracy and financial development and banking crises, but we lack an understanding of how political regimes influence banking regulations. Examining the increased global focus on macroprudential policy, which preemptively restricts credit expansion to decrease the risk and magnitude of banking crises, I argue that democratic countries limit regulatory implementation. Because the difficulty of retrospective evaluation of macroprudential policies exacerbates the short-termism of democratic decision-making, and the heterogeneous distributional effects of regulation increase the transaction costs of veto bargaining, democratic countries tend to resist reform and maintain status quo regulatory systems. Empirically, a panel dataset of macroprudential policies in 126 countries from 1990-2020 and case studies of the United States, China, and Hungary indicate robust empirical support for the democratic disadvantage of macroprudential regulations. </div> </p></div>
+
+
+
+### Peer-Reviewed Articles 
 [4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**
 
 with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree
@@ -88,7 +98,7 @@ _Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021
 
 
 
-#### Book Chapters
+### Book Chapters
 
 [1] **Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election** 
 
@@ -101,15 +111,10 @@ Palgrave Macmillan, Forthcoming
 [<a href="/assets/pdf/Amano and Katada_2022_Economic Policy Trilemma.pdf">PDF</a>]
 [<a href="https://github.com/kenyamano/JapanDecides2021">Data</a>]
 <div id="bc1" style="display:none;">
-<p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDPK ¯omeit¯o coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
-
-
-
-
+<p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDP-Komeito coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
 
 
 #### Selected Work in Progress
-
 
 Project: Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics  
 published in Artificial Intelligence in Medicine, 2021
