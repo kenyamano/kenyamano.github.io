@@ -4,7 +4,6 @@ title: data
 permalink: /data/
 description: datadata
 ---
-{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
