@@ -91,7 +91,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Keener
+  last_name: Amano
 
   style: apa
   locale: en
