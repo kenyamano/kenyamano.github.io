@@ -4,6 +4,8 @@ title: research
 permalink: /research/
 description: Publications and working papers.
 ---
+{% include _links_library.md %}
+
 
 <script type="text/javascript">
  function showhide(id) {
@@ -18,7 +20,7 @@ description: Publications and working papers.
 
 ### Job Market Paper
 **Democracy and Macroprudential Banking Regulation**<br>
-_Chapter 3 of Dissertation_<br>
+_Chapter 1 of Dissertation_<br>
 [<a href="javascript:showhide('jmp')">Abs</a>]
 [<a href="/assets/pdf/20221025Draft">PDF</a>]
 <div id="jmp" style="display:block;">
@@ -30,8 +32,6 @@ _Chapter 3 of Dissertation_<br>
 [4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**<br>
 with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree<br>
 _PS: Political Science & Politics_, Forthcoming<br>
-
-
 [<a href="javascript:showhide('pr4')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">PDF</a>]
 [<a href="https://doi.org/10.1017/S1049096522000932">DOI</a>]
@@ -42,7 +42,7 @@ _PS: Political Science & Politics_, Forthcoming<br>
 
 
 [3] **The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.**<br>
-with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson<br>
+with [ChrisAdolph], Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson<br>
 _Perspectives on Politics_, 20(2):595--617, 2022<br>
 [<a href="javascript:showhide('pr3')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7D30B5AF90226027EB281329FBDA83C8/S1537592721002036a.pdf/the-pandemic-policy-u-turn-partisanship-public-health-and-race-in-decisions-to-ease-covid-19-social-distancing-policies-in-the-united-states.pdf">PDF</a>]
