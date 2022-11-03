@@ -2,85 +2,154 @@
 layout: page
 title: research
 permalink: /research/
-description: Information about my research activities
+description: Publications and working papers.
 ---
 
-## Publications and working papers
+<script type="text/javascript">
+ function showhide(id) {
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+ }
+</script>
 
-### Journal Articles
+### Job Market Paper
+**Democracy and Macroprudential Banking Regulation**
 
-- Amano, Kenya, Charles Crabtree, Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, Charles T. McClean, Austin M. Mitchell, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, and Yujin Woo.“ Field Research When There’s Limited Access to the Field: Lessons From Japan.” *PS: Political Science & Politics*, (Forthcoming).   
-  <details><summary>Abstract</summary><p> How can scholars conduct field research when there is limited access to the field? The paper first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on doing field research in Japan both because of our substantive expertise, but we think that problems and solutions we outline should be applicable to a broad range of countries. Our hope is that this paper contributes to the developing literature on conducting research during times of emergency and the larger literature on best practices for field research. </p></details>
 
-- Incerti, Trevor, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue. ''[Hawkish partisans: How political parties shape nationalist conflicts in China and Japan](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/hawkish-partisans-how-political-parties-shape-nationalist-conflicts-in-china-and-japan/D625B68B3659A3CAD1A1D56E12AB45C3).'' *British Journal of Political Science*, 51.4 (2021): 1494-1515. [Online Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0007123420000095/resource/name/S0007123420000095sup001.pdf). [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4YXQB).  
-  <details><summary>Abstract</summary><p> It is well known that regime types affect international conflicts. This article explores political parties as a mechanism through which they do so. Political parties operate in fundamentally different ways in democracies vs. non-democracies, which has consequences for foreign policy. Core supporters of a party in a democracy, if they are hawkish, may be more successful at demanding hawkish behavior from their party representatives than would be their counterparts in an autocracy. The study draws on evidence from paired experiments in democratic Japan and non-democratic China to show that supporters of the ruling party in Japan punish their leaders for discouraging nationalist protests, while ruling party insiders in China are less likely to do so. Under some circumstances, then, non-democratic regimes may be better able to rein in peace-threatening displays of nationalism. </p></details>
-  
-- Incerti, Trevor. ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB2ACE468B04EAB85CAF7379F9DF4817/S000305542000012Xa.pdf/corruption_information_and_vote_share_a_metaanalysis_and_lessons_for_experimental_design.pdf).'' *American Political Science Review*, 114.3 (2020): 761-774. [Online appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S000305542000012X/resource/name/S000305542000012Xsupp001.pdf). [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HD7UUU).  
-  <details><summary>Abstract</summary><p> Debate persists on whether voters hold politicians accountable for corruption. Numerous experiments have examined whether informing voters about corrupt acts of politicians decreases their vote share. Meta-analysis demonstrates that corrupt candidates are punished by zero percentage points across field experiments, but approximately 32 points in survey experiments. I argue this discrepancy arises due to methodological differences. Small effects in field experiments may stem partially from weak treatments and noncompliance, and large effects in survey experiments are likely from social desirability bias and the lower and hypothetical nature of costs. Conjoint experiments introduce hypothetical costly trade-offs, but it may be best to interpret results in terms of realistic sets of characteristics rather than marginal effects of particular characteristics. These results suggest that survey experiments may provide point estimates that are not representative of real-world voting behavior. However, field experimental estimates may also not recover the “true” effects due to design decisions and limitations. </p></details>
+[<a href="javascript:showhide('jmp')">Abs</a>]
+[<a href="/assets/pdf/20221025Draft">PDF</a>]
+<div id="jmp" style="display:block;">
+<p><div style="font-size:0.85em; text-align: justify;">  Do democracies implement more banking regulations than authoritarian states? Existing studies examine the relationship between democracy and financial development and banking crises, but we lack an understanding of how political regimes influence banking regulations. Examining the increased global focus on macroprudential policy, which preemptively restricts credit expansion to decrease the risk and magnitude of banking crises, I argue that democratic countries limit regulatory implementation. Because the difficulty of retrospective evaluation of macroprudential policies exacerbates the short-termism of democratic decision-making, and the heterogeneous distributional effects of regulation increase the transaction costs of veto bargaining, democratic countries tend to resist reform and maintain status quo regulatory systems. Empirically, a panel dataset of macroprudential policies in 126 countries from 1990-2020 and case studies of the United States, China, and Hungary indicate robust empirical support for the democratic disadvantage of macroprudential regulations. </div> </p></div>
 
-- Incerti, Trevor and Phillip Lipscy. ''[The politics of energy and climate change in Japan under Abe](http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf).'' *Asian Survey*, 58.4 (2018).  
-  <details><summary>Abstract</summary><p> Under what we call Abenergynomics, Japanese Prime Minister Abe Shinzo has used energy policy to support the growth objectives of Abenomics, even when the associated policies are publicly unpopular, opposed by utility companies, or harmful to the environment. We show how Abenergynomics has shaped Japanese policy on nuclear power, electricity deregulation, renewable energy, and climate change. </p></details> 
-    
-- Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.  \[Media coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)\]. 
-  <details><summary>Abstract</summary><p> We consider the vulnerability of nuclear power plants to a disaster like the one that occurred at Fukushima Daiichi. Examination of Japanese nuclear plants affected by the earthquake and tsunami on March 11, 2011 shows that three variables were crucial at the early stages of the crisis: plant elevation, sea wall elevation, and location and status of backup generators. Higher elevations for these variables, or waterproof protection of backup generators, could have mitigated or prevented the disaster. We collected information on these variables, along with historical data on run-up heights, for 89 coastal nuclear power plants in the world. The data shows that 1. Japanese plants were relatively unprotected against potential inundation in international comparison, but there was considerable variation for power plants within and outside of Japan; 2. Older power plants and plants owned by the largest utility companies appear to have been particularly unprotected. </p></details>
+
+
+### Peer-Reviewed Articles 
+[4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**
+
+with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree
+
+_PS: Political Science & Politics_, Forthcoming
+
+
+[<a href="javascript:showhide('pr4')">Abs</a>]
+[<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">PDF</a>]
+[<a href="https://doi.org/10.1017/S1049096522000932">DOI</a>]
+[<a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1049096522000932/resource/name/S1049096522000932sup001.docx">Supp</a>]
+<div id="pr4" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  We explore the US states’ evolving policy responses to the COVID-19 pandemic by examining governors’ decisions to begin easing five types of social distancing policies after the initial case surge in March–April 2020. Applying event history models to original data on state COVID-19 policies, we test the relative influence of health, economic, and political considerations on their decisions. We find no evidence that differences in state economic conditions influenced when governors began easing. Governors of states with larger recent declines in COVID-19 deaths per capita and improving trends in new confirmed cases and test positivity were quicker to ease. However, politics played as powerful a role as epidemiological conditions, driven primarily by governors’ party affiliation. Republican governors made the policy U-turn from imposing social distancing measures toward easing those measures a week earlier than Democratic governors, all else equal. Most troubling of all, we find that states with larger Black populations eased their social distancing policies more quickly, despite Black Americans’ higher exposure to infection from SARS-CoV-2 and subsequent death from COVID-19. </div> </p></div>
+
+
+
+[3] **The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.**
+
+with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson
+
+_Perspectives on Politics_, 20(2):595--617, 2022
+
+[<a href="javascript:showhide('pr3')">Abs</a>]
+[<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7D30B5AF90226027EB281329FBDA83C8/S1537592721002036a.pdf/the-pandemic-policy-u-turn-partisanship-public-health-and-race-in-decisions-to-ease-covid-19-social-distancing-policies-in-the-united-states.pdf">PDF</a>]
+[<a href="https://doi.org/10.1017/S1537592721002036">DOI</a>]
+[<a href="https://doi.org/10.7910/DVN/9PFC7P">Data</a>]
+[<a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1537592721002036/resource/name/S1537592721002036sup001.pdf">Supp</a>]
+<div id="pr3" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  How can scholars conduct field research when there is limited access to the field? This article first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on conducting field research in Japan because of our substantive expertise, but we believe that the problems and solutions outlined in this article are applicable to a broad range of countries. Our hope is that this article contributes to the developing literature on conducting research during times of emergency and to the larger literature on best practices for field research. </div> </p></div>
+
+
+
+[2] **Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings**
+
+with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson
+
+_State Politics & Policy Quarterly_, 22(1):24--49, 2022
+
+
+[<a href="javascript:showhide('pr2')">Abs</a>]
+[<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/53E2C0D07BBBC730DC4910DF95E5A9AF/S1532440021000220a.pdf/governor-partisanship-explains-the-adoption-of-statewide-mask-mandates-in-response-to-covid-19.pdf">PDF</a>]
+[<a href="https://doi.org/10.1017/spq.2021.22">DOI</a>]
+[<a href="https://doi.org/10.15139/S3/OPMEHK">Data</a>]
+<div id="pr2" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  Public mask use has emerged as a key tool in response to COVID-19. We develop a classification of statewide mask mandates that reveals variation in their scope and timing. Some US states quickly mandated wearing of face coverings in most public spaces, whereas others issued narrow mandates or no mandate at all. We consider how differences in COVID-19 epidemiological indicators and partisan politics affect when states adopted broad mask mandates, starting with the earliest mandates in April 2020 and continuing through the end of 2020. The most important predictor is the presence of a Republican governor, delaying statewide indoor mask mandates an estimated 98.0 days on average. COVID-19 indicators such as confirmed case or death rates are much less important predictors. This finding highlights a key challenge to public efforts to increase mask wearing, one of the most effective tools for preventing the spread of SARS-CoV-2 while restoring economic activity. </div> </p></div>
+
+
+
+[1] **Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19**
+
+with with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, John Wilkerson
+
+_Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021
+
+
+[<a href="javascript:showhide('pr1')">Abs</a>]
+[<a href="/assets/pdf/AABFW2020.pdf">PDF</a>]
+[<a href="https://doi.org/10.1215/03616878-8802162">DOI</a>]
+<div id="pr1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  <bold>Context:</bold> Social distancing is an essential but economically painful measure to flatten the curve of emergent infectious diseases. As the novel coronavirus that causes COVID-19 spread throughout the United States in early 2020, the federal government left to the states the difficult and consequential decisions about when to cancel events, close schools and businesses, and issue stay-at-home orders.<br>
+
+</bold>Methods:</bold> The authors present an original, detailed dataset of state-level social distancing policy responses to the epidemic; they then apply event history analysis to study the timing of implementation of five social distancing policies across all 50 states.<br>
+
+<bold>Results:</bold> The most important predictor of when states adopted social distancing policies is political: all else equal, states led by Republican governors were slower to implement such policies during a critical window of early COVID-19 response.<br>
+
+<bold>Conclusions:</bold> Continuing actions driven by partisanship rather than by public health expertise and scientific recommendations may exact greater tolls on health and broader society. </div> </p></div>
+
+
+
+
+
 
 ### Book Chapters
 
-- Incerti, Trevor and Phillip Lipscy. "[The Politics of Energy and Climate Change in Japan under the Abe Government](https://www.cambridge.org/core/books/political-economy-of-the-abe-government-and-abenomics-reforms/politics-of-energy-and-climate-change-in-japan-under-the-abe-government/7ADB1786A617CF587AF47AAD11687BB3)." In Hoshi, Takeo, and Lipscy, Phillip. [The Political Economy of the Abe Government and Abenomics Reforms](https://www.cambridge.org/core/books/political-economy-of-the-abe-government-and-abenomics-reforms/C94C12663E45418B2CEA79A09611A1F9). Cambridge University Press (2021).  
+[1] **Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election** 
 
-- Incerti, Trevor and Phillip Lipscy. ''[The energy politics of Japan](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21).'' In [*The Oxford Handbook of Energy Politics*](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360) (2020). (*Peer reviewed*). 
+with Saori Katada
 
-details {
-  font: 16px "Open Sans", Calibri, sans-serif;
-  width: 620px;
-}
+In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) _Japan Decides 2021: The Japanese General Election_. 
+Palgrave Macmillan, Forthcoming 
 
-details > summary {
-  padding: 2px 6px;
-  width: 15em;
-  background-color: #ddd;
-  border: none;
-  box-shadow: 3px 3px 4px black;
-  cursor: pointer;
-  list-style: none;
-}
+[<a href="javascript:showhide('bc1')">Abs</a>]
+[<a href="/assets/pdf/Amano and Katada_2022_Economic Policy Trilemma.pdf">PDF</a>]
+[<a href="https://github.com/kenyamano/JapanDecides2021">Data</a>]
+<div id="bc1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDP-Komeito coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
 
-details > p {
-  border-radius: 0 0 10px 10px;
-  background-color: #ddd;
-  padding: 2px 6px;
-  margin: 0;
-  box-shadow: 3px 3px 4px black;
-}
-Copy to Clipboard
 
-  <details><summary>Abstract</summary><p> Japanese energy policy has attracted renewed attention since the 2011 Fukushima nuclear disaster. However, Japan’s energy challenges are nothing new; as a country poor in natural resources, it has long struggled to meet its energy needs. This chapter provides an overview of Japanese energy politics, focusing on three broad topics: Japan’s modernization and energy security challenges, the politics of the utilities sector and nuclear energy, and the politics of energy conservation and climate change. In addition, the chapter discusses factors specific to Japan, such as state-business relations in the utilities sector and institutional changes since the 1990s. Japan offers both compelling puzzles—several transformative shifts in energy conservation policy, limited emphasis on renewables despite persistent energy security concerns, and reinvigoration of nuclear energy despite the Fukushima disaster—as well as important empirical opportunities for theory testing. The chapter concludes by calling for additional research that integrates insights from Japan into broader theoretical and cross-national scholarship, examines Japanese energy policy within an international context, and uses rigorous causal identification strategies to evaluate Japanese energy policy. Finally, it identifies the politics of decarbonization in Japan as a critical area for future research. </p></details>
+### Work in Progress
+[1] **Democracy and Economic Development: A Time-Varying Parameter Model**
+_Chapter 2 of Dissertation_
 
-- Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''Were Japan's Nuclear Plants Uniquely Vulnerable?'' in Edward Blandford and Scott D. Sagan eds., [*Learning from a Disaster: Improving Nuclear Safety and Security after Fukushima*](https://www.sup.org/books/title/?id=24812), Stanford University Press (2016).
 
-### Working Papers
-  
-- Carlson, Jacob, Trevor Incerti, and P.M. Aronow. "[Dyadic clustering in international relations](https://arxiv.org/abs/2109.03774)." (*under review*)
-   <details><summary>Abstract</summary><p>  Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research. </p></details>
-   
-- Incerti, Devin, and Trevor Incerti. ''[Are regime changes always bad economics? Evidence from daily financial data](http://tincerti.github.io/files/regime_changes.pdf).'' (*under review*)
-  <details><summary>Abstract</summary><p> Political instability is commonly thought to discourage investment and reduce economic growth. By contrast, we find that different types of “irregular” regime changes - coups, assassinations, or resignations - have disparate effects on stock returns. We examine daily returns of national stock indices in every country that experienced an irregular regime change subject to data availability. Using an event study approach, we show that abnormal returns following resignations are large and positive (4%), while those following assassinations are negative and smaller in magnitude (2%). The impact of coups tends to be negative (2%), but some events result in positive abnormal returns of 10% or more. Volatility increases during times of protest preceding resignations, but no clear directionality is present. We therefore find that the expected direction and magnitude of abnormal returns is dependent on the type of political event and its expected impact on economic policy. </p></details>
-  
-- Incerti, Trevor. ''[Combatting capture in local politics: Evidence from eight field experiments](https://www.trevorincerti.com/files/capture_in_local_politics.pdf).'' [Pre-analysis plan](http://tincerti.github.io/files/cc_preanalysis.pdf). (*under review*)    
-  <details><summary>Abstract</summary><p> Understanding how to motivate individuals with long-term collective interest to engage in costly political behavior is an enduring question in political economy. While renters have an economic incentive to participate in local politics and encourage housing growth, their participation lags that of homeowners who yield immediate financial returns from participation. I conducted 8 field experiments in 8 cities to investigate how to motivate renters to comment at city council meetings. Outreach highlighting the costs of abstention caused public comments to increase by 1.4 percentage points amongst those who opened the emails, with those already engaged in local politics particularly responsive to treatment. Treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all treated meetings. Overall, the results suggest that increasing the perception that abstention is costly is an effective motivator of real-world political participation, and that outreach can change the representativeness of civic bodies where increases in accessibility alone do not. </p></details>
-  
-- Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.'' (Contact for draft)
- 
-### Works in Progress
- 
-- Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
-   <details><summary>Description</summary><p> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections, despite well-documented bureaucratic revolving door hiring practices. Leveraging a 2009 law requiring Japanese bureaucratic agencies to report private sector hires of former civil servants, we construct a comprehensive dataset of all revolving door hires in Japan. Using this dataset and data on Japanese government contracts and loans, we test for systematic benefits that accrue to firms who hire former bureaucrats. </p></details>
+[<a href="javascript:showhide('wp1')">Abs</a>]
+<div id="wp1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  Revisiting a controversy on the relationship between economic development and democratization, this paper explores dynamic relationships using a new estimation methodology with time-varying parameter (TVP) models.  I argue that the emergence of instituitoalized autocracies after the collapse of the Soviet Union exerts a structural change in the relationship between economic growth and democratization, predicting that the marginal effect of income on the transition to democracy diminishes over time.  The empirical analysis confirms that the magnitude of influence of per capita income on democratization is stable during the period from the 1960s to the 1980s, while it declines in the 1990s and the early 2000s. Moreover, the result shows that the time-varying effect of income is always positive and statistically significant in all periods, suggesting the modernization theory stands up well. </div> </p></div>
 
-- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
-   <details><summary>Description</summary><p> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. </p></details>
-   
-- “Sexual Harassment in Japan: Willingness to Pay for Best Practices,” with Charles Crabtree, Trevor Incerti, Rieko Kage, Frances McCall Rosenbluth, and Seiki Tanaka.
+[2]  **Democracy-at-Risk:  Estimating Vulnerability and Resilience of Democracy**
+_Chapter 3 of Dissertation_
 
-### Other Writing
 
-- Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[Protecting nuclear plants from nature's worst](https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html?noredirect=on&utm_term=.fd1845f1ab1a})'' *The Washington Post* (2012) 
+[<a href="javascript:showhide('wp2')">Abs</a>]
+<div id="wp2" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  What causes democratic regression and consolidation? Several previous studies examine political polarization, economic development and shocks, and international factors to explain democratic backsliding. These studies usually provide point estimates for the conditional mean of democratic indexes and other variables considered causal factors, assuming the distribution of risks around the estimation is normally distributed. However, this approach underestimates the possibility that the upsides and downsides of democratic risks are uneven. Revisiting the modernization theory and distributive conflict theory, I explore the risks of democratic vulnerability and resilience and their association with two economic drivers— income levels and income distribution— with a large sample of advanced and emerging market economies from 1980 to 2017. To investigate the risk these factors pose to democracy, I employ quantile regressions to focus on tail risks for democratic regression and consolidation. This empirical strategy allows us to quantify the chance of a very high or low shift of democracy indexes when the tail risks develop differently from average outcomes. I find that upside and downside democracy risks are symmetric as these risks are fallen when GDP per capita increases, suggesting that regime stability increases at any level of the democracy index. However, widening income inequality increases the tail risk of democratic regression while lowering inequality does not affect the upside risk of democracy. </div> </p></div>
+
+[3]  **Driving Forces of Diversification in Central Banks’ Functions: Global Textual Analysis of Central Bank Laws**
+
+with Masaaki Higashijima
+
+[<a href="javascript:showhide('wp3')">Abs</a>]
+<div id="wp3" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;"> Why are some governments delegate more functions to their central bank than others? Despite the importance of non-monetary functions of central banks – issuance of legal tender banknotes, banking regulation, payment infrastructure provisions, reserve management –, little is known about the relationship between a variety of central bank functions and governments’ delegation strategies. The conventional wisdom of independent central banks considers that the narrower focus of central bank mandate on price stability, the better economic outcomes. However, no central bank operates only monetary policies, and delegating non-monetary functions has increased, especially after the Great Financial Crisis. To empirically capture the diversification of central bank mandates, we apply the Keyword Assisted Topic Models to the central bank statute of 103 countries. We analyze governments’ delegation strategies by focusing on a trade-off between central bank autonomy and the breadth of its policy functions. We suggest that governments are likely to allow broader policy roles to the central bank when countries are more autocratic and have lower state capacity. Our findings advance our understanding of when governments formally delegate certain political and economic powers to central banks. </div> </p></div>
+
+[4]  **Economic Policy Trilemma and Longevity of a Political Party: A Study of Japan’s Liberal Democratic Party in a Comparative Perspective**
+
+with Saori N. Katada
+
+[<a href="javascript:showhide('wp4')">Abs</a>]
+<div id="wp4" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;"> Democracies tend to experience changes in the governing party to adapt to the structural changes in international economic relations and domestic industrial developments, while some countries see a party stay in the governing position for a long time. Such longevity of a governing party is even more puzzling when the country struggles with economic stagnation like in the case of Japan since the mid-1990s. How has the Liberal Democratic Party (LDP) managed to stay in power in economic hard times for so long? We argue that the LDP weakens opposition parties by co-opting their innovative policy proposals, thus exploiting the opposition parties’ own policy space and producing less competitive elections. In economic stagnation, the economic policy choice comes down to conventional growth strategy, distribution, and fiscal discipline, creating a trilemma where the government can pursue only two of these three goals. The LDP has managed to exploit policy space for the opposition parties under the trilemma. To empirically capture the changes in policy goals, we apply Keyword Assisted Topic Models to the economic policy debate data in the Diet from the late 1990s to 2022, quantifying the share of each policy goal in the debates. This study reveals the effectiveness of the LDP’s economic strategy in the face of economic policy trilemma, suggesting incumbent party’s co-optation strategies could lead to democratic erosion, with implications for other established democracies. </div> </p></div>
+
+
+[5]  **Financial Crises and Political Liberalization**
+
+with Bree Bang-Jensen and Brian Leung
+
+[<a href="javascript:showhide('wp5')">Abs</a>]
+<div id="wp5" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;"> The past decade has been characterized by two trends: the aftermath of the 2008-2009 recession and what some scholars characterize as a democratic regression. We explore whether financial crises leads states to become more authoritarian, and which state characteristics encourage stability.  Using financial crisis data from 1946-2010, we find that currency crises move states closer to authoritarianism but domestic sovereign debt crises lead to democratization.  We find that banking crises, the most dominant crisis during the 2008 recession, do not affect regime stability. Consolidated democracies are more resilient in times of crisis.  We argue that the types of constituents most directly impacted by certain economic crises lead to different responses by the regimes, resulting in either autocratization or democratization. This research suggests that the effect of financial crises on regime type is heterogeneous, and wealthier, more democratic countries are more resistant to authoritarianism in times of crisis.  </div> </p></div>
