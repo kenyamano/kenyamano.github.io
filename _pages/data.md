@@ -96,8 +96,6 @@ _Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021
 
 
 
-
-
 ### Book Chapters
 
 [1] **Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election** 
@@ -114,11 +112,44 @@ Palgrave Macmillan, Forthcoming
 <p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDP-Komeito coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
 
 
-#### Selected Work in Progress
+### Work in Progress
+[1] **Democracy and Economic Development: A Time-Varying Parameter Model**
+_Chapter 2 of Dissertation_
 
-Project: Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics  
-published in Artificial Intelligence in Medicine, 2021
 
-Project: Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis  
-published in Journal of Computational Physics, 2020
+[<a href="javascript:showhide('wp1')">Abs</a>]
+<div id="wp1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  Revisiting a controversy on the relationship between economic development and democratization, this paper explores dynamic relationships using a new estimation methodology with time-varying parameter (TVP) models.  I argue that the emergence of instituitoalized autocracies after the collapse of the Soviet Union exerts a structural change in the relationship between economic growth and democratization, predicting that the marginal effect of income on the transition to democracy diminishes over time.  The empirical analysis confirms that the magnitude of influence of per capita income on democratization is stable during the period from the 1960s to the 1980s, while it declines in the 1990s and the early 2000s. Moreover, the result shows that the time-varying effect of income is always positive and statistically significant in all periods, suggesting the modernization theory stands up well. </div> </p></div>
 
+[2]  **Democracy-at-Risk:  Estimating Vulnerability and Resilience of Democracy**
+_Chapter 3 of Dissertation_
+
+
+[<a href="javascript:showhide('wp2')">Abs</a>]
+<div id="wp2" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  What causes democratic regression and consolidation? Several previous studies examine political polarization, economic development and shocks, and international factors to explain democratic backsliding. These studies usually provide point estimates for the conditional mean of democratic indexes and other variables considered causal factors, assuming the distribution of risks around the estimation is normally distributed. However, this approach underestimates the possibility that the upsides and downsides of democratic risks are uneven. Revisiting the modernization theory and distributive conflict theory, I explore the risks of democratic vulnerability and resilience and their association with two economic drivers— income levels and income distribution— with a large sample of advanced and emerging market economies from 1980 to 2017. To investigate the risk these factors pose to democracy, I employ quantile regressions to focus on tail risks for democratic regression and consolidation. This empirical strategy allows us to quantify the chance of a very high or low shift of democracy indexes when the tail risks develop differently from average outcomes. I find that upside and downside democracy risks are symmetric as these risks are fallen when GDP per capita increases, suggesting that regime stability increases at any level of the democracy index. However, widening income inequality increases the tail risk of democratic regression while lowering inequality does not affect the upside risk of democracy. </div> </p></div>
+
+[3]  **Driving Forces of Diversification in Central Banks’ Functions: Global Textual Analysis of Central Bank Laws**
+
+with Masaaki Higashijima
+
+[<a href="javascript:showhide('wp3')">Abs</a>]
+<div id="wp3" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;"> Why are some governments delegate more functions to their central bank than others? Despite the importance of non-monetary functions of central banks – issuance of legal tender banknotes, banking regulation, payment infrastructure provisions, reserve management –, little is known about the relationship between a variety of central bank functions and governments’ delegation strategies. The conventional wisdom of independent central banks considers that the narrower focus of central bank mandate on price stability, the better economic outcomes. However, no central bank operates only monetary policies, and delegating non-monetary functions has increased, especially after the Great Financial Crisis. To empirically capture the diversification of central bank mandates, we apply the Keyword Assisted Topic Models to the central bank statute of 103 countries. We analyze governments’ delegation strategies by focusing on a trade-off between central bank autonomy and the breadth of its policy functions. We suggest that governments are likely to allow broader policy roles to the central bank when countries are more autocratic and have lower state capacity. Our findings advance our understanding of when governments formally delegate certain political and economic powers to central banks. </div> </p></div>
+
+[4]  **Economic Policy Trilemma and Longevity of a Political Party: A Study of Japan’s Liberal Democratic Party in a Comparative Perspective**
+
+with Saori N. Katada
+
+[<a href="javascript:showhide('wp4')">Abs</a>]
+<div id="wp4" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;"> Democracies tend to experience changes in the governing party to adapt to the structural changes in international economic relations and domestic industrial developments, while some countries see a party stay in the governing position for a long time. Such longevity of a governing party is even more puzzling when the country struggles with economic stagnation like in the case of Japan since the mid-1990s. How has the Liberal Democratic Party (LDP) managed to stay in power in economic hard times for so long? We argue that the LDP weakens opposition parties by co-opting their innovative policy proposals, thus exploiting the opposition parties’ own policy space and producing less competitive elections. In economic stagnation, the economic policy choice comes down to conventional growth strategy, distribution, and fiscal discipline, creating a trilemma where the government can pursue only two of these three goals. The LDP has managed to exploit policy space for the opposition parties under the trilemma. To empirically capture the changes in policy goals, we apply Keyword Assisted Topic Models to the economic policy debate data in the Diet from the late 1990s to 2022, quantifying the share of each policy goal in the debates. This study reveals the effectiveness of the LDP’s economic strategy in the face of economic policy trilemma, suggesting incumbent party’s co-optation strategies could lead to democratic erosion, with implications for other established democracies. </div> </p></div>
+
+
+[5]  **Financial Crises and Political Liberalization**
+
+with Bree Bang-Jensen and Brian Leung
+
+[<a href="javascript:showhide('wp5')">Abs</a>]
+<div id="wp5" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;"> The past decade has been characterized by two trends: the aftermath of the 2008-2009 recession and what some scholars characterize as a democratic regression. We explore whether financial crises leads states to become more authoritarian, and which state characteristics encourage stability.  Using financial crisis data from 1946-2010, we find that currency crises move states closer to authoritarianism but domestic sovereign debt crises lead to democratization.  We find that banking crises, the most dominant crisis during the 2008 recession, do not affect regime stability. Consolidated democracies are more resilient in times of crisis.  We argue that the types of constituents most directly impacted by certain economic crises lead to different responses by the regimes, resulting in either autocratization or democratization. This research suggests that the effect of financial crises on regime type is heterogeneous, and wealthier, more democratic countries are more resistant to authoritarianism in times of crisis.  </div> </p></div>
