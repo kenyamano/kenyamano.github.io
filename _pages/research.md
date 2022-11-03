@@ -15,6 +15,7 @@ description: Publications and working papers.
 ### Job Market Paper
 **Democracy and Macroprudential Banking Regulation**
 
+_Chapter 3 of Dissertation_
 
 [<a href="javascript:showhide('jmp')">Abs</a>]
 [<a href="/assets/pdf/20221025Draft">PDF</a>]
@@ -114,6 +115,7 @@ Palgrave Macmillan, Forthcoming
 
 ### Work in Progress
 [1] **Democracy and Economic Development: A Time-Varying Parameter Model**
+
 _Chapter 2 of Dissertation_
 
 
@@ -122,6 +124,7 @@ _Chapter 2 of Dissertation_
 <p><div style="font-size:0.85em; text-align: justify;">  Revisiting a controversy on the relationship between economic development and democratization, this paper explores dynamic relationships using a new estimation methodology with time-varying parameter (TVP) models.  I argue that the emergence of instituitoalized autocracies after the collapse of the Soviet Union exerts a structural change in the relationship between economic growth and democratization, predicting that the marginal effect of income on the transition to democracy diminishes over time.  The empirical analysis confirms that the magnitude of influence of per capita income on democratization is stable during the period from the 1960s to the 1980s, while it declines in the 1990s and the early 2000s. Moreover, the result shows that the time-varying effect of income is always positive and statistically significant in all periods, suggesting the modernization theory stands up well. </div> </p></div>
 
 [2]  **Democracy-at-Risk:  Estimating Vulnerability and Resilience of Democracy**
+
 _Chapter 3 of Dissertation_
 
 
