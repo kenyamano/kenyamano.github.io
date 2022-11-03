@@ -30,7 +30,7 @@ _Chapter 1 of Dissertation_<br>
 
 ### Peer-Reviewed Articles 
 [4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**<br>
-with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree<br>
+with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree<br>
 _PS: Political Science & Politics_, Forthcoming<br>
 [<a href="javascript:showhide('pr4')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">PDF</a>]
@@ -42,7 +42,7 @@ _PS: Political Science & Politics_, Forthcoming<br>
 
 
 [3] **The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.**<br>
-with [ChrisAdolph], Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson<br>
+with [Christopher Adolph], [Bree Bang-Jensen], Nancy Fullman, [Beatrice Magistro], [Grace Reinke], [John Wilkerson], Rachel Castellano, Megan Erickson<br>
 _Perspectives on Politics_, 20(2):595--617, 2022<br>
 [<a href="javascript:showhide('pr3')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7D30B5AF90226027EB281329FBDA83C8/S1537592721002036a.pdf/the-pandemic-policy-u-turn-partisanship-public-health-and-race-in-decisions-to-ease-covid-19-social-distancing-policies-in-the-united-states.pdf">PDF</a>]
@@ -55,7 +55,7 @@ _Perspectives on Politics_, 20(2):595--617, 2022<br>
 
 
 [2] **Governor Partisanship Explains the Adoption of Statewide Mandates to Wear Face Coverings**<br>
-with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson<br>
+with [Christopher Adolph], [Bree Bang-Jensen], Nancy Fullman, [Beatrice Magistro], [Grace Reinke], [John Wilkerson]<br>
 _State Politics & Policy Quarterly_, 22(1):24--49, 2022<br>
 [<a href="javascript:showhide('pr2')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/53E2C0D07BBBC730DC4910DF95E5A9AF/S1532440021000220a.pdf/governor-partisanship-explains-the-adoption-of-statewide-mask-mandates-in-response-to-covid-19.pdf">PDF</a>]
@@ -66,7 +66,7 @@ _State Politics & Policy Quarterly_, 22(1):24--49, 2022<br>
 
 
 [1] **Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19**<br>
-with with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, John Wilkerson<br>
+with [Christopher Adolph], [Bree Bang-Jensen], Nancy Fullman, [John Wilkerson]<br>
 _Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021<br>
 [<a href="javascript:showhide('pr1')">Abs</a>]
 [<a href="/assets/pdf/AABFW2020.pdf">PDF</a>]
@@ -85,7 +85,7 @@ _Journal of Health Politics, Policy and Law_, 46(2): 211--232, 2021<br>
 ### Book Chapters
 
 [1] **Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election** <br>
-with Saori Katada<br>
+with [Saori N. Katada]<br>
 In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) _Japan Decides 2021: The Japanese General Election_.<br> 
 Palgrave Macmillan, Forthcoming <br>
 [<a href="javascript:showhide('bc1')">Abs</a>]
@@ -109,20 +109,20 @@ _Chapter 3 of Dissertation_<br>
 <p><div style="font-size:0.85em; text-align: justify;">  What causes democratic regression and consolidation? Several previous studies examine political polarization, economic development and shocks, and international factors to explain democratic backsliding. These studies usually provide point estimates for the conditional mean of democratic indexes and other variables considered causal factors, assuming the distribution of risks around the estimation is normally distributed. However, this approach underestimates the possibility that the upsides and downsides of democratic risks are uneven. Revisiting the modernization theory and distributive conflict theory, I explore the risks of democratic vulnerability and resilience and their association with two economic drivers— income levels and income distribution— with a large sample of advanced and emerging market economies from 1980 to 2017. To investigate the risk these factors pose to democracy, I employ quantile regressions to focus on tail risks for democratic regression and consolidation. This empirical strategy allows us to quantify the chance of a very high or low shift of democracy indexes when the tail risks develop differently from average outcomes. I find that upside and downside democracy risks are symmetric as these risks are fallen when GDP per capita increases, suggesting that regime stability increases at any level of the democracy index. However, widening income inequality increases the tail risk of democratic regression while lowering inequality does not affect the upside risk of democracy. </div> </p></div>
 
 [3]  **Driving Forces of Diversification in Central Banks’ Functions: Global Textual Analysis of Central Bank Laws**<br>
-with Masaaki Higashijima<br>
+with [Masaaki Higashijima]<br>
 [<a href="javascript:showhide('wp3')">Abs</a>]
 <div id="wp3" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;"> Why are some governments delegate more functions to their central bank than others? Despite the importance of non-monetary functions of central banks – issuance of legal tender banknotes, banking regulation, payment infrastructure provisions, reserve management –, little is known about the relationship between a variety of central bank functions and governments’ delegation strategies. The conventional wisdom of independent central banks considers that the narrower focus of central bank mandate on price stability, the better economic outcomes. However, no central bank operates only monetary policies, and delegating non-monetary functions has increased, especially after the Great Financial Crisis. To empirically capture the diversification of central bank mandates, we apply the Keyword Assisted Topic Models to the central bank statute of 103 countries. We analyze governments’ delegation strategies by focusing on a trade-off between central bank autonomy and the breadth of its policy functions. We suggest that governments are likely to allow broader policy roles to the central bank when countries are more autocratic and have lower state capacity. Our findings advance our understanding of when governments formally delegate certain political and economic powers to central banks. </div> </p></div>
 
 [4]  **Economic Policy Trilemma and Longevity of a Political Party: A Study of Japan’s Liberal Democratic Party in a Comparative Perspective**<br>
-with Saori N. Katada<br>
+with [Saori N. Katada]<br>
 [<a href="javascript:showhide('wp4')">Abs</a>]
 <div id="wp4" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;"> Democracies tend to experience changes in the governing party to adapt to the structural changes in international economic relations and domestic industrial developments, while some countries see a party stay in the governing position for a long time. Such longevity of a governing party is even more puzzling when the country struggles with economic stagnation like in the case of Japan since the mid-1990s. How has the Liberal Democratic Party (LDP) managed to stay in power in economic hard times for so long? We argue that the LDP weakens opposition parties by co-opting their innovative policy proposals, thus exploiting the opposition parties’ own policy space and producing less competitive elections. In economic stagnation, the economic policy choice comes down to conventional growth strategy, distribution, and fiscal discipline, creating a trilemma where the government can pursue only two of these three goals. The LDP has managed to exploit policy space for the opposition parties under the trilemma. To empirically capture the changes in policy goals, we apply Keyword Assisted Topic Models to the economic policy debate data in the Diet from the late 1990s to 2022, quantifying the share of each policy goal in the debates. This study reveals the effectiveness of the LDP’s economic strategy in the face of economic policy trilemma, suggesting incumbent party’s co-optation strategies could lead to democratic erosion, with implications for other established democracies. </div> </p></div>
 
 
 [5]  **Financial Crises and Political Liberalization**<br>
-with Bree Bang-Jensen and Brian Leung<br>
+with [Bree Bang-Jensen] and Brian Leung<br>
 [<a href="javascript:showhide('wp5')">Abs</a>]
 <div id="wp5" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;"> The past decade has been characterized by two trends: the aftermath of the 2008-2009 recession and what some scholars characterize as a democratic regression. We explore whether financial crises leads states to become more authoritarian, and which state characteristics encourage stability.  Using financial crisis data from 1946-2010, we find that currency crises move states closer to authoritarianism but domestic sovereign debt crises lead to democratization.  We find that banking crises, the most dominant crisis during the 2008 recession, do not affect regime stability. Consolidated democracies are more resilient in times of crisis.  We argue that the types of constituents most directly impacted by certain economic crises lead to different responses by the regimes, resulting in either autocratization or democratization. This research suggests that the effect of financial crises on regime type is heterogeneous, and wealthier, more democratic countries are more resistant to authoritarianism in times of crisis.  </div> </p></div>
