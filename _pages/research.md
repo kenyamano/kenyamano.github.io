@@ -17,10 +17,8 @@ description: Publications and working papers.
 
 
 ### Job Market Paper
-**Democracy and Macroprudential Banking Regulation**
-
-_Chapter 3 of Dissertation_
-
+**Democracy and Macroprudential Banking Regulation**<br>
+_Chapter 3 of Dissertation_<br>
 [<a href="javascript:showhide('jmp')">Abs</a>]
 [<a href="/assets/pdf/20221025Draft">PDF</a>]
 <div id="jmp" style="display:block;">
@@ -29,11 +27,9 @@ _Chapter 3 of Dissertation_
 
 
 ### Peer-Reviewed Articles 
-[4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**
-
-with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree
-
-_PS: Political Science & Politics_, Forthcoming
+[4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**<br>
+with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, TrevorIncerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree<br>
+_PS: Political Science & Politics_, Forthcoming<br>
 
 
 [<a href="javascript:showhide('pr4')">Abs</a>]
@@ -45,12 +41,9 @@ _PS: Political Science & Politics_, Forthcoming
 
 
 
-[3] **The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.**
-
-with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson
-
-_Perspectives on Politics_, 20(2):595--617, 2022
-
+[3] **The Pandemic Policy U-Turn: The Role of Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the U.S.**<br>
+with Christopher Adolph, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson, Rachel Castellano, Megan Erickson<br>
+_Perspectives on Politics_, 20(2):595--617, 2022<br>
 [<a href="javascript:showhide('pr3')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7D30B5AF90226027EB281329FBDA83C8/S1537592721002036a.pdf/the-pandemic-policy-u-turn-partisanship-public-health-and-race-in-decisions-to-ease-covid-19-social-distancing-policies-in-the-united-states.pdf">PDF</a>]
 [<a href="https://doi.org/10.1017/S1537592721002036">DOI</a>]
